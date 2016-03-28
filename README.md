@@ -3,4 +3,4 @@
 #####Class: Assembly Language
 #####Professor: John Russo
 #####Date: 12/10/14
-#####Purpose: We made a memory game in Assembly. This is based off the generic "memory card flip game".
+#####Info: We developed a memory game in assembly for our final project. This is based off the generic "memory card flip game".
